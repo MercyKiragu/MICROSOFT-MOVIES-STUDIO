@@ -22,7 +22,12 @@ The datasets are cleaned and preprocessed to handle missing values, duplicates, 
 EDA is conducted to analyze box office earnings, movie ratings, genres, and release dates. Visualizations are created to uncover insights and trends within the data.
 
 ## Visualization
-Visualizations such as scatter plots, bar charts, and line plots are utilized to present key findings from the analysis. These visualizations aid in understanding trends and patterns in the movie industry.
+Visualizations such as scatter plots,bar charts and linegraphs are utilized to present key findings from the analysis. These visualizations aid in understanding trends and patterns in the movie industry.
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+
 
 ## Conclusion and Recommendations
 The analysis reveals insights into successful movie genres, box office trends, and audience preferences. Recommendations are provided for Microsoft's movie studio, focusing on content creation strategies and market targeting.
@@ -32,7 +37,7 @@ The analysis reveals insights into successful movie genres, box office trends, a
 - `notebooks/`: Jupyter notebooks with the data analysis and visualization code.
 - `README.md`: Overview of the project, instructions, and information for reviewers.
 - `LICENSE`: License information for the project.
-
+- `.gitignore` : Instructs Git to ignore large and unnecessary files.
 ## Dependencies
 - Python 3
 - pandas
@@ -47,8 +52,8 @@ The analysis reveals insights into successful movie genres, box office trends, a
 3. Open the Jupyter notebooks to view the analysis and visualizations.
 
 ## Contributors
-- [Your Name](link to your GitHub profile)
+[Mercy Kiragu]https://github.com/MercyKiragu
 
 ## License
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License](.http://learn.co/content-license)
 
