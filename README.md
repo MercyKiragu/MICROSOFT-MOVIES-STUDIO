@@ -30,14 +30,37 @@ Visualizations such as scatter plots,bar charts and linegraphs are utilized to p
 
 
 ## Conclusion and Recommendations
-The analysis reveals insights into successful movie genres, box office trends, and audience preferences. Recommendations are provided for Microsoft's movie studio, focusing on content creation strategies and market targeting.
+## Conclusions
+Box Office Dominators:
 
-## Repository Structure
-- `data/`: Contains the raw and processed datasets used in the analysis.
-- `notebooks/`: Jupyter notebooks with the data analysis and visualization code.
-- `README.md`: Overview of the project, instructions, and information for reviewers.
-- `LICENSE`: License information for the project.
-- `.gitignore` : Instructs Git to ignore large and unnecessary files.
+Looking at the top money-makers like "Avatar" and superhero flicks like "Avengers: Age of Ultron," it seems large franchises, especially in fantasy and superhero genres, are box office gold. While "Inception" wasn't the top earner, it drew the most viewers, suggesting a high level of interest.
+
+What Audiences Want:
+
+Action, dazzling visuals, and captivating stories are a winning combination, as evidenced by popular movies like "John Wick" and "Spider-Man: Into the Spider-Verse."
+
+Market Focus:
+
+The dominance of the United States in terms of movie popularity suggests a potential advantage in catering to American audiences.
+
+Engaging Audiences:
+
+"Inception's" popularity based on audience votes highlights the power of thought-provoking and well-crafted narratives to truly grab viewers' attention.
+
+## Recommendations
+
+To maximize success, Microsoft's film studio should:
+
+Focus on success: Develop franchises in fantasy, adventure, and superhero genres, building expansive cinematic universes like Marvel or Avatar. 
+
+Aim for big-budget, visually stunning action films with immersive storytelling, similar to "Avengers: Infinity War" or "John Wick."
+
+Prioritize U.S. Audience: While keeping a global perspective, cater content to American tastes to tap into the large and lucrative U.S. market.
+
+Originality with Depth: Balance creating original, thought-provoking stories like "Inception" that engage audiences intellectually with delivering entertaining experiences.
+
+Partner with Proven Talent: Collaborate with established directors, writers, and actors with a track record of success. This will enhance the quality and marketability of the studio's productions.
+
 ## Dependencies
 - Python 3
 - pandas
@@ -46,14 +69,4 @@ The analysis reveals insights into successful movie genres, box office trends, a
 - seaborn
 - sqlite3
 
-## Usage
-1. Clone the repository to your local machine.
-2. Navigate to the `notebooks/` directory.
-3. Open the Jupyter notebooks to view the analysis and visualizations.
-
-## Contributors
-[Mercy Kiragu]https://github.com/MercyKiragu
-
-## License
-This project is licensed under the [MIT License](.http://learn.co/content-license)
 
