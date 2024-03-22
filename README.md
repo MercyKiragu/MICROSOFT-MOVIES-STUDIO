@@ -23,10 +23,15 @@ EDA is conducted to analyze box office earnings, movie ratings, genres, and rele
 
 ## Visualization
 Visualizations such as scatter plots,bar charts and linegraphs are utilized to present key findings from the analysis. These visualizations aid in understanding trends and patterns in the movie industry.
+![alt text](image.png)
+This is a bar graph which shows the top movies with the highest worldwide gross.
 ![alt text](image-2.png)
+This is a line graph which shows Average Production Budget VS Worldwide Gross by year.
 ![alt text](image-3.png)
+This is a scatter plot which shows the relationship between Foreign Gross and Domestic Gross.
 ![alt text](image-4.png)
-![alt text](image-5.png)
+The above is a histogram which shows the movies with the highest rating under the movie database “”TMDB”
+
 
 
 ## Conclusion and Recommendations
